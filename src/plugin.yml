@@ -1,0 +1,12 @@
+name: AlwaysOp
+main: com.originalsbytoto.bukkit.alwaysop.MainClass
+version: 1.0.5
+author: OriginalsByToto
+commands:
+  alwaysop:
+    usage: /alwaysop
+    description: To get opped
+  alwaysopadmin:
+    usage: /alwaysopadmin <action> [player]
+    description: To modify configuration
+    permission : alwaysop.admin

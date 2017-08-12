@@ -1,0 +1,27 @@
+#==========================
+#==========================
+#= AlwaysOp Configuration =
+#==========================
+#==========================
+# Copyright 2016 - OriginalsByToto (Thomas L./TheThomas92)
+
+# ====================
+# ===== MESSAGES =====
+# ====================
+
+alreadyOP: "&cYou're already OP!"
+
+permError: "&cYou don't have the permission to do that!"
+
+cmdError: "&cCommand error!"
+
+msgOK: "&2Action done!"
+
+msgError: "&cAction error! (player already listed for 'add' or player not listed for 'remove')"
+
+# =====================
+# ======= USERS =======
+# =====================
+
+users:
+  - users_goes_here
